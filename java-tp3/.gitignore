@@ -1,0 +1,11 @@
+/*.project
+/.settings
+/target
+.vscode/launch.json
+.classpath
+
+.idea
+tp3.iml
+/.vscode/settings.json
+.factorypath
+/logs
